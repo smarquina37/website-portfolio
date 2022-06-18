@@ -1,4 +1,24 @@
+/* yellow #ffcf43 
+font #050720*/
+
 body {
   margin: 0;
   text-align: center;
+  background-color: #ffffff;
+  color: #081c15;
+}
+
+.nav {
+  background-color: #ffcf43;
+  margin-top: 0;
+  padding: 2px;
+}
+
+.nav-list {
+  list-style-type: none;
+}
+
+.footer {
+  padding: 40px;
+  background-color: #ffcf43;
 }
